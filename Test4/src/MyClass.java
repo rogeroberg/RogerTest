@@ -4,4 +4,6 @@ public class MyClass {
  int k;
  int p;
  int o;
+ int f;
+ int g;
 }
